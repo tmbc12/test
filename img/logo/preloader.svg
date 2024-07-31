@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 35 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcfcfc;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,18C0,8.34,7.84.5,17.5.5s17.5,7.84,17.5,17.5-7.83,17.5-17.5,17.5S0,27.67,0,18Z"/>
+  <image width="1920" height="1080" transform="translate(-5.48 4.33) scale(.02)" xlink:href="G:\pintuhere\LOGOS\mesc.png"/>
+</svg>
